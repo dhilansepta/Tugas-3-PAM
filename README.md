@@ -1,4 +1,4 @@
-# Tugas-3-PAM
+# Tugas-UTS-PAM
 ## Nama Aplikasi
 Riċetta
 ## Deskripsi Aplikasi
